@@ -39,9 +39,9 @@ This project explores sales, profit, and discount trends for a global superstore
 
 ## 🔍 Key Insights & Findings
 
-### 1️⃣ Profitability Analysis by Category
+#### 1️⃣ Profitability Analysis by Category
 
-#### Top Profitable Segments:
+##### Top Profitable Segments:
 
 * ****Technology:**** Highest profitability, led by ****Copiers**** ($258K) and ****Phones**** ($216K).
 
@@ -53,31 +53,31 @@ This project explores sales, profit, and discount trends for a global superstore
 
 * ****Office Supplies (Fasteners & Supplies)**** contribute minimal profit and may require reassessment.
 
-### 2️⃣ Top 10 Countries by Sales
+#### 2️⃣ Top 10 Countries by Sales
 
 * ****United States leads with the highest sales****, followed by ****Australia, France, and China****.
 
 * ****El Salvador records the lowest sales****, signaling an opportunity for market expansion.
 
-### 3️⃣ Yearly Sales Trends
+#### 3️⃣ Yearly Sales Trends
 
 * ****Sales peaked in 2014 (~$4.29M)**** but dropped drastically in 2015 (~$60K), likely due to operational or policy changes.
 
 * Gradual sales increase from 2011 to 2014 suggests strong market adoption before the decline.
 
-### 4️⃣ Regional Discount Distribution
+#### 4️⃣ Regional Discount Distribution
 
 * ****Central region has the highest discounts (~1,544 units)****, which could indicate an attempt to boost sales.
 
 * ****Canada receives zero discounts****, which may affect its lower profit margins.
 
-### 5️⃣ Impact of Shipping Modes
+#### 5️⃣ Impact of Shipping Modes
 
 * ****Standard Class generates the highest profit (~$890K)****, making it the most effective shipping method.
 
 * ****Same-Day shipping contributes the least profit (~$76K)****, possibly due to high operational costs.
 
-### 6️⃣ Market Profitability Breakdown
+#### 6️⃣ Market Profitability Breakdown
 
 * ****APAC ($436K) and EU ($372K) lead in profitability****, followed by the ****US ($286K)****.
 
